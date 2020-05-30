@@ -1,4 +1,4 @@
-# **Python : Standford's Code In Place**
+# **Python : Stanford's Code In Place**
 This repository showcases my learning during Apr-May 2020, when I was a part of [**CS106A - Code in Place**](https://engineering.stanford.edu/news/free-coding-education-time-covid-19), an introductory programming course using the Python language, offered by **Stanford University** during the time of Covid-19.
 
 10,000 students all over the world were shortlisted from 80,000 applications.
